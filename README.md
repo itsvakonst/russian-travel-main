@@ -5,7 +5,9 @@
 
 - **Описание и иллюстрации:** на странице и в [макете Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile/duplicate)
 - **Исходники:** [архив](https://code.s3.yandex.net/Interactive-textbook/AS-frontend/zip/russian-travel-main.zip?etag=23911526d377c1b32935688614bf5165)
-- **Работа:** локально, затем залить в свой репозиторий и опубликовать на GitHub Pages
+- **Работа:** локально, затем залить в свой репозиторий и опубликовать на [GitHub Pages](https://itsvakonst.github.io/russian-travel-main/)
+
+
 
 ## Как запустить проект
 
